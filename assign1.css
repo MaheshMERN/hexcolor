@@ -1,0 +1,23 @@
+#container{
+    height: 500px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.row{
+    text-align: center;
+}
+#btn{
+    border-radius: 15px;
+    color: rgb(211, 30, 30);
+    cursor: pointer;
+    letter-spacing: .5px;
+    background-color: lightcoral;
+    height: auto;
+    
+}
+#btn :hover{
+    color: lightgreen;
+}
